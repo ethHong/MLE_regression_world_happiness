@@ -2,8 +2,7 @@
 
 * Utilizing [World Hapiness Report Data](https://worldhappiness.report/data/), this repository tries to deploy MLE estimator through Python.
 * 🔗Refer to this [Blog Post](https://ethhong.github.io/statistics/datascience/2024/08/10/Reviewing-MLE-(Maximum-Liklihood-Estimator).html) for detailed review on MLE for Gaussian and Linear Regression.
-
-<img width="762" alt="image" src="https://github.com/user-attachments/assets/2cb09692-865c-4c83-bf8f-8104d768b584">
+* Additional Blog Post about the codes in this repository will be updated soon. 
 
 # Formulation of MLE
 * Given that we are estimating the best linear (polynomial) model:
