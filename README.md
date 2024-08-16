@@ -9,7 +9,7 @@
 * Given that we are estimating the best linear (polynomial) model:
 
 $$
-$y = \theta_0 + \theta_ix_1 + ... \theta_nx_n
+y = \theta_0 + \theta_ix_1 + ... \theta_nx_n
 $$
 
 Log Likelihood for MLE is formulated as: 
